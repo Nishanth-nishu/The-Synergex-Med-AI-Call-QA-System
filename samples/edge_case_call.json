@@ -1,0 +1,8 @@
+{
+    "call_id": "CALL-003-EDGE-CASE",
+    "agent_name": "Priya Nair",
+    "call_date": "2026-04-01",
+    "call_duration_seconds": 38,
+    "department": "Follow-Ups",
+    "transcript": "Agent: Synergex follow-up team, this is Priya. How can I help?\nCaller: Hi yes, I was told someone would call me back about my referral status.\nAgent: Sure, let me look that up for you. Can I get your name?\nCaller: It's Robert Kwan.\nAgent: Okay Mr. Kwan I see your file here, the referral is still being processed and— [call disconnected]"
+}

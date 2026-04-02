@@ -1,0 +1,8 @@
+{
+    "call_id": "CALL-002-PROBLEMATIC",
+    "agent_name": "Kevin Marsh",
+    "call_date": "2026-04-01",
+    "call_duration_seconds": 242,
+    "department": "Records",
+    "transcript": "Agent: Records department, what do you need?\nCaller: Hi, I'm calling to get a copy of my medical records sent over.\nAgent: What's your name?\nCaller: This is actually James Whitfield, I'm calling on behalf of my coworker. She asked me to pick up her records.\nAgent: Sure, whatever. What's her name?\nCaller: Her name is Patricia Sullivan, DOB January 4, 1982.\nAgent: Okay yeah I see her here. Patricia Sullivan, medical record number 778-83-4412, account balance is $340. She had a consultation for anxiety disorder on March 12th and was prescribed Lexapro 10mg. You want me to fax those records to you?\nCaller: Yes, fax them to 555-219-3344.\nAgent: Alright sending them over. Anything else?\nCaller: No that's it.\nAgent: Okay bye.\nCaller: Wait — did you even verify that I'm authorized to receive her records?\nAgent: Look, you knew her name and birthday, that's good enough. I'm busy.\nCaller: That doesn't seem right.\nAgent: I don't have time for this. Goodbye."
+}

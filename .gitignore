@@ -1,0 +1,49 @@
+# Environment
+.env
+.env.shared
+.venv
+venv
+env
+/bin
+/lib
+/include
+/share
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Logs
+logs/
+*.log
+*.jsonl
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project Specific
+samples/local_*
+eval/results/

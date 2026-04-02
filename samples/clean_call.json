@@ -1,0 +1,8 @@
+{
+  "call_id": "CALL-001-CLEAN",
+  "agent_name": "Maria Santos",
+  "call_date": "2026-04-01",
+  "call_duration_seconds": 187,
+  "department": "Scheduling",
+  "transcript": "Agent: Thank you for calling Synergex Medical Group, this is Maria. How can I help you today?\nCaller: Hi Maria, I need to schedule an appointment with Dr. Peterson for my annual checkup.\nAgent: Of course! I'd be happy to help you get that scheduled. Can I get your name and date of birth to pull up your account?\nCaller: Sure, it's David Chen, and my birthday is March 15th.\nAgent: Thank you, David. I can see your account here. Dr. Peterson has availability on Thursday April 10th at 2:00 PM and Friday April 11th at 10:30 AM. Do either of those work for you?\nCaller: Thursday at 2 PM works great.\nAgent: Perfect! I've got you scheduled for Thursday, April 10th at 2:00 PM with Dr. Peterson at our Riverside clinic location. You'll need to arrive about 15 minutes early to complete any updated paperwork. Is the Riverside location convenient for you?\nCaller: Yes, that's perfect, it's close to my office.\nAgent: Wonderful. You'll receive a confirmation text and email within the next few minutes. We also send a reminder 48 hours before the appointment. Is there anything else I can help you with today?\nCaller: No, that's everything. Thank you so much!\nAgent: My pleasure, David! We look forward to seeing you on April 10th. Have a great rest of your day!\nCaller: You too, bye!"
+}
